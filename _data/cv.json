@@ -134,20 +134,5 @@
       "description": "Educate participants in real-time machine learning algorithm development through practical, hands-on instruction."
     }
   ],
-  "portfolio": [
-    {
-      "name": "One Project One Week Hackathon Winner",
-      "category": "hackathon",
-      "date": "2025-04-01",
-      "url": "https://github.com/HacktheTechMM/AI_Backend",
-      "description": "Built an AI-powered LMS for rural education with TypeScript, Python, and Laravel."
-    },
-    {
-      "name": "Myanmar Python Hackathon Winner",
-      "category": "hackathon",
-      "date": "2025-10-01",
-      "url": "https://github.com/Ye-Bhone-Lin/Smart-Water-Distribution-Optimization",
-      "description": "Developed a smart water distribution optimization system with ML-based leak detection and predictive maintenance."
-    }
-  ]
+  "portfolio": []
 }
