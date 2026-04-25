@@ -19,7 +19,6 @@ My mission is to build scalable, robust, and research-driven AI systems that hav
 <small>
 * Low-Resource Burmese NLP and Speech Processing
 * NLP for Healthcare
-* Southeast Asian Language Modeling
 
 **Achievements**
 ======
